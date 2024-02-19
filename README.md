@@ -14,13 +14,13 @@ Run the `Library_Management_System.py` script. You will be presented with a menu
 
 *** MENU ***
 
-1.List Books
+1) List Books
 
-2.Add Book
+2) Add Book
 
-3.Remove Book
+3) Remove Book
 
-4.Quit
+4) Quit
 
 - Select 1 to list all books. The title and author of each book will be displayed.
 - Select 2 to add a new book. You will be prompted to enter the book's title, author, release year, and number of pages.
